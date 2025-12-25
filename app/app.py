@@ -122,8 +122,8 @@ label {
 # UI Layout
 # --------------------------------------------------
 
-st.markdown('<div class="title">🎯 Employee Churn Prediction</div>', unsafe_allow_html=True)
-st.markdown('<div class="subtitle">AI-powered system to assess employee retention risk</div>', unsafe_allow_html=True)
+st.markdown('<div class="title">🎯 Attrition Prediction Engine</div>', unsafe_allow_html=True)
+st.markdown('<div class="subtitle">Machine learning–based system for employee churn risk assessment</div>', unsafe_allow_html=True)
 
 # --------------------------------------------------
 # Personal Information
